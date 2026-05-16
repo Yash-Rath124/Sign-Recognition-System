@@ -10,26 +10,26 @@ Fast and accurate prediction,
 User-friendly interface,
 AI and Deep Learning integration,
 
-Technologies Used
+Technologies Used: 
 Python,
 OpenCv,
 MediaPipe,
 Machine Learning & Computer Vision
 
-Working Process
+Working Process:
 Capture live video through webcam,
 Detect hand landmarks using MediaPipe,
 Preprocess gesture data,
 Predict sign using trained ML model,
 Convert detected sign into readable text
 
-Project Objectives
+Project Objectives:
 Enable easier communication for specially-abled individuals,
 Apply AI in real-world accessibility solutions,
 Improve gesture recognition accuracy,
 Build a real-time intelligent recognition system
 
-Future Enhancements
+Future Enhancements:
 Voice output for detected text,
 Support for multiple sign languages,
 Mobile application integration,
